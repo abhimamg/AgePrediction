@@ -1,6 +1,6 @@
-# AgePrediction
+# Age and Gender Prediction
 
-First pass model has been developed using `shufflenet_v2_x1_0` from pytorch.models. The model has been trained for 100 epochs. Data split is `90%` training and `10%` validation.
+Model developed using `shufflenet_v2_x1_0` from pytorch.models. The model has been trained for 100 epochs. Data split is `90%` training and `10%` validation.
 
 The model performance is:
 | Parameter | Value |
